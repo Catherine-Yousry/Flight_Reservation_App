@@ -27,4 +27,4 @@ A simple desktop application built with **Python Tkinter** and **SQLite** to man
 
 ### 1. Clone or Download the project:
 ```bash
-git clone https://github.com/yourusername/flight-reservation-app.git
+git clone https://github.com/Catherine-Yousry/Flight_Reservation_App
