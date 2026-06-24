@@ -1,6 +1,3 @@
-## نموذج حجز الرحلة
-
-
 import tkinter as tk
 from tkinter import messagebox
 import database

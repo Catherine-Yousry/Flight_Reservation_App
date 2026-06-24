@@ -1,5 +1,3 @@
-## بيشتغل ك entry point بين الصفحات ويدير التنقل
-
 import tkinter as tk
 from tkinter import ttk
 import home
